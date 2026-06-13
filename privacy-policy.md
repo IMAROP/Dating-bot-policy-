@@ -1,0 +1,56 @@
+Privacy Policy
+
+Last Updated: June 2026
+
+DateAnyoneBot respects your privacy and aims to be transparent about how information is collected and used.
+
+Information We Collect
+
+We may collect and store:
+
+• Telegram User ID
+• Username and profile information you provide
+• Profile photos uploaded to the bot
+• Preferences and settings
+• Points, rewards, referrals, and related activity
+• Other information voluntarily submitted through the bot
+
+Public Profile Information
+
+Information you choose to include in your profile, including profile photos, may be visible to other users of the service. By creating a profile, you understand that other users may view the information you choose to share.
+
+Chat Privacy
+
+DateAnyoneBot does not actively monitor user conversations. However, if a conversation is reported by a user, a copy of the reported chat may be reviewed for moderation, safety, abuse prevention, or rule enforcement purposes.
+
+How We Use Information
+
+Information may be used to:
+
+• Provide matching and chat features
+• Manage user profiles and preferences
+• Operate rewards, referrals, and point systems
+• Improve and maintain the service
+• Investigate abuse, fraud, spam, or rule violations
+
+User Responsibility
+
+Users are responsible for the information, photos, and content they choose to share through the service. Please avoid sharing information that you do not want other users to see.
+
+Account Restrictions
+
+We reserve the right to suspend, restrict, or permanently ban accounts that violate our rules, engage in harassment, spam, scams, impersonation, or other harmful activities.
+
+Data Storage
+
+Information submitted through the bot may be stored on our systems for service operation, moderation, security, and technical purposes.
+
+Support Requests
+
+Users may contact support for assistance. While we will try to help whenever possible, certain requests may not always be technically feasible.
+
+Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Continued use of DateAnyoneBot constitutes acceptance of any updates.
+
+By using DateAnyoneBot, you agree to this Privacy Policy.
